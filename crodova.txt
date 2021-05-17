@@ -1,3 +1,5 @@
 https://cordova.apache.org/docs/ko/latest/guide/platforms/ios/
 
 cordova test add
+
+cordova 2 add test
